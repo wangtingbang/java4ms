@@ -1,5 +1,5 @@
 /*************************************************************************
-    > File Name: main.java
+    > File Name: MainEntry.java
     > Author: wang tingbang
     > Mail: wangtingbang@gmail.com
     > Created Time: 2013/2/26 16:02:57
